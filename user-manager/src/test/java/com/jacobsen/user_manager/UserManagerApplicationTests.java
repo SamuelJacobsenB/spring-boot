@@ -1,10 +1,10 @@
-package com.jacobsen.first_spring_app;
+package com.jacobsen.user_manager;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FirstSpringAppApplicationTests {
+class UserManagerApplicationTests {
 
 	@Test
 	void contextLoads() {

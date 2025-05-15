@@ -1,13 +1,13 @@
-package com.jacobsen.first_spring_app;
+package com.jacobsen.user_manager;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FirstSpringAppApplication {
+public class UserManagerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FirstSpringAppApplication.class, args);
+		SpringApplication.run(UserManagerApplication.class, args);
 	}
-
+	
 }
